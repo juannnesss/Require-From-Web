@@ -27,6 +27,6 @@ module.exports = function requireFromString(code, filename, opts) {
   let m = new module.constructor();
   m.filename = filename;
   m._compile(string, filename);
-  console.log("klaus modales", module, globalThis.KLAUS);
+  //console.log("klaus modales", module, globalThis.KLAUS);
   return { exports: module.exports, KLAUS: globalThis.KLAUS };
 };
