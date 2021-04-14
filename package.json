@@ -2,7 +2,7 @@
   "name": "@juannnesss/require-from-64",
   "main": "index.js",
   "preferGlobal": false,
-  "version": "1.2.1",
+  "version": "2",
   "description": "Import/Load/Require module base 64",
   "author": {
     "email": "juanvarahu@gmail.com",
@@ -31,9 +31,7 @@
     "index.js",
     "package.json"
   ],
-  "dependencies": {
-    "axios": "^0.20.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "xo": "^0.33.1"
   },
