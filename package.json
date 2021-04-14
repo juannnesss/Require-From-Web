@@ -2,8 +2,8 @@
   "name": "@juannnesss/require-from-64",
   "main": "index.js",
   "preferGlobal": false,
-  "version": "2",
-  "description": "Import/Load/Require module base 64",
+  "version": "2.1.0",
+  "description": "Import/Load/Require module base 64, Klaus Based way",
   "author": {
     "email": "juanvarahu@gmail.com",
     "name": "Juan Vargas"
