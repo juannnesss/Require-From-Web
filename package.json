@@ -2,8 +2,8 @@
   "name": "@juannnesss/require-from-64",
   "main": "index.js",
   "preferGlobal": false,
-  "version": "2.1.1",
-  "description": "Import/Load/Require module base 64, Klaus Based way",
+  "version": "2.2.1",
+  "description": "Import/Load/Require module base 64, and from web Klaus Based way",
   "author": {
     "email": "juanvarahu@gmail.com",
     "name": "Juan Vargas"
@@ -31,7 +31,9 @@
     "index.js",
     "package.json"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
   "devDependencies": {
     "xo": "^0.33.1"
   },
